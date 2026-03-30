@@ -1,0 +1,11 @@
+[project]
+name = "ih-fake-news-detector"
+version = "0.1.0"
+description = "A simple NLP pipeline for detecting fake news headlines."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "nltk>=3.9.4",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+]
