@@ -1,3 +1,6 @@
+.claude
+data/models/
+
 # Python bytecode and interpreter state
 __pycache__/
 *.py[cod]
